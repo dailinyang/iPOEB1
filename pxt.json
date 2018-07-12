@@ -10,6 +10,7 @@
     "description": "iPOEB1",
     "files": [
 		"README.md",
-        "main.ts"
+        "main.ts",
+	    "_locales/zh/iPOEB1-strings.json"
     ]
 }
