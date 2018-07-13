@@ -1,5 +1,5 @@
 {
-    "name": "iPOEB1",
+    "name": "BitRobot",
 	"version": "0.0.1",
     "license": "MIT",
 	"public": true,
@@ -7,9 +7,10 @@
         "core": "*",
 		"neopixel": "github:microsoft/pxt-neopixel#v0.4.2"
     },
-    "description": "iPOEB1",
+    "description": "BitRobot",
     "files": [
 		"README.md",
-        "main.ts"
+        "main.ts",
+		"_locales/zh/BitRobot-strings.json"
     ]
 }
