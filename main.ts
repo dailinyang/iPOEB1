@@ -1,4 +1,4 @@
-﻿/**
+/**
   * Enumeration of motors.
   */
 enum BBMotor {

@@ -1,4 +1,4 @@
-﻿{
+{
     "iPOEB1.neopixelbitrobit_colors|block":"轉為顏色值 %color",
     "iPOEB1.bitbot_neo_set_color|block":"設置LED為 %color |色",
     "iPOEB1.bitbot_neo_set_pixel_color|block":"設定 %offset|號LED的顏色為 %color|色",
